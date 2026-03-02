@@ -1,0 +1,8 @@
+node_modules
+
+git init
+git add .
+git branch -M master
+git commit -m "first commit"
+git remote add origin https://github.com/DevMaria446/Hello.git
+git push -u origin master
